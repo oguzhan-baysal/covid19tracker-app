@@ -1,4 +1,4 @@
-COVID-19 TRACKER
+COVID-19 TRACKER.
 <hr>
 https://covid19tracker-bcopwpx0z-oguzhan-baysal.vercel.app/
 <hr>
